@@ -1,13 +1,12 @@
-
 # Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **YIHENG YANG**
 
-Time spent: **#** hours spent in total
+Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://mica-tartan-fall.glitch.me (insert your link here, should start with https://glitch.com...)
 
 ## Required Functionality
 
@@ -50,24 +49,25 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[I believe there are certain challenges during the working: I personally have no experience of JS so the function inside it I have to be careful to manipulate. Since the version of glitch in the instruction has a bit different from the current version, I also have to be careful about not doing the wrong thing. I try to not write the style the same as what we provided but utilize the element from the hello-website of glitch, which involves more operation in HTML and CSS. Coding, and writing a web requires us to pay attention to the details since one small mistake can provide unexpected results.
+Besides the coding part, this is my first time utilizing Git hub to store files and write a formal README, which definitely requires some time to get used to it. However, this is a critical part since all programmers use this platform to organize and record, which will be helpful in the future not only for oneself but for others.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Therefore, I feel interested in the audio part of this memory game, I believe if we have knowledge related to music, there can be various operations and creative work to do on a website. How do people usually utilize the soundtrack during web development and are there creative works that use the sound and make the web reach the acme of perfection? I believe creativity, does not matter the simplicity or complexity of one website, it will make the audience feel refreshed.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I have an idea that can develop this game into a bigger version. We should not limit this game to one website. Since we already talked about how to hide a button and how with the further operation to show it (the start button and stop button), if we have different types of simple and small games, we can link them together. For example, besides showing 'You win', at the bottom of the page will appear a 'next level' button, which is a hyperlink that brings the user to another website with a different game. It will only show when the user wins the game but not exist in other condition.]
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://photos.app.goo.gl/RZDoGoxej1ySJKf59
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [YIHENG YANG]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
